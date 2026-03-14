@@ -34,5 +34,4 @@ Feature engineering
 Logistic regression model development
 
 Visualization of churn trends
-Logistic regression model development
-Visualization of churn trends
+
